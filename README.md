@@ -1,2 +1,1 @@
-# portfolio
-Compilation of recent projects
+# Portfolio
